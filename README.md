@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as AI Engineer and exploring the AI world. I have hands on experience in technologies like- Python, JS, AI-ML, LLMs, Fine tuning AI models, building AI-ML pipelines, Deep Learning, MySQL, Data Analysis etc. <br>Currently working at Project based Manufacturing Company and previously I have  done my internship at Ministry of Defence (India). I am always looking for opportunities in AI-ML, World of AI-Agents and Tech Startups.<br><br>Feel free to reach out to me or simply send an e-mail if you want to build something meaningful together :)<br><br>
+I am currently working as AI Engineer and exploring the AI world. I have hands on experience in technologies like- Python, JS, AI-ML, LLMs, Fine tuning AI models, building AI-ML pipelines, Deep Learning, MySQL, Data Analysis etc. <br><br>Currently working at Project based Manufacturing Company and previously I have  done my internship at Ministry of Defence (India). I am always looking for opportunities in AI-ML, World of AI-Agents and Tech Startups.<br><br>Feel free to reach out to me or simply send an e-mail if you want to build something meaningful together :)<br><br>
 
 
 ## 🌐 Socials:
