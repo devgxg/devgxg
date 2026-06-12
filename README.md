@@ -1,30 +1,49 @@
-# 💫 About Me:
-I am currently working as AI Engineer and exploring the AI world. I have hands on experience in technologies like- Python, JS, AI-ML, LLMs, Fine tuning AI models, building AI-ML pipelines, Deep Learning, MySQL, Data Analysis etc. <br><br>Currently working at Project based Manufacturing Company and previously I have  done my internship at Ministry of Defence (India). I am always looking for opportunities in AI-ML, World of AI-Agents and Tech Startups.<br><br>Feel free to reach out to me or simply send an e-mail if you want to build something meaningful together :)<br><br>
+# Hey, I'm Dev 👋
 
+**AI Engineer** building real-world AI systems at the intersection of manufacturing, defense, and LLMs.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.exe_1.0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devgarg04) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rocuuzzz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dexxtrrrr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devg55030@gmail.com) 
+Currently at **Dee Piping**, where I'm building AI pipelines that parse complex piping engineering drawings into structured data — replacing hours of manual Excel work with Claude Vision API + deterministic logic. Previously interned at **WESEE, Indian Navy**, building defense-grade computer vision systems for surveillance imagery analysis.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=plastic&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=plastic)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=plastic)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=plastic) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devv04&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devv04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devv04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+B.Tech CSE (AI/ML) @ Amity University Haryana · Microsoft Learn Student Ambassador (Beta)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devv04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔧 What I'm Building
+
+**[BOM Extraction Pipeline](https://github.com/devgxg)** — End-to-end AI pipeline extracting structured Bill of Materials from isometric piping drawing PDFs using Claude Vision API, pdf2image, and openpyxl. Handles multi-page BHEL & Dangote Refinery project drawings with consistent structured output.
+
+**[ICD Code Generator](https://github.com/devgxg)** — Automates 19-character piping component code lookups via LLM-based field extraction + deterministic master sheet matching. Turned hours of manual Excel lookups into seconds.
+
+**[GigScore](https://github.com/devgxg/GigScore)** — AI-powered alternative credit scoring for India's gig economy. Generates dynamic credit scores (up to 850) for Zomato riders & freelancers by analyzing transaction patterns — no CIBIL needed. Built with React, Flask, and Gemini AI. *Presented at MasterX Hackathon.*
+
+**[IMInsight](https://github.com/devgxg/IMInsight)** — Defense-grade AI image analysis system built during my Indian Navy internship. Fine-tuned YOLOv8 for ship/aircraft/personnel detection in satellite imagery; integrated BLIP for NLP-based intelligence summaries. Runs fully offline for secure environments.
+
+**[BiteWise](https://github.com/devgxg/BiteWise)** — Multimodal AI food monitoring app using Gemini Vision — snap a photo, get health scores, allergen detection, and disease-risk insights. Deployed with CI/CD on Netlify + Render.
+
+---
+
+### 🛠 Core Stack
+
+**AI/LLM:** Claude · OpenAI · Gemini · LangChain · RAG · Prompt Engineering · Fine-tuning  
+**CV/ML:** YOLOv8 · PyTorch · TensorFlow · OpenCV · BLIP · CLIP · Scikit-learn  
+**Backend:** Python · FastAPI · Flask · SQLite · MySQL · MongoDB  
+**Frontend:** React · JavaScript · TailwindCSS · Vite  
+**Tools:** Git · Docker · Postman · VS Code
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devgxg&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgxg&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devgxg)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Devgxg)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devg55030@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://devv-portfolio.netlify.app)
