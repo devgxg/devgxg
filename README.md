@@ -104,7 +104,7 @@ Snap a food photo → get health scores, allergen detection & disease-risk insig
   </a>
 </p>
 
-`Claude API` `FastAPI` `Gradio` `Python`
+`GenAI` `FastAPI` `Gradio` `Python`
 
 Automates 19-character piping component code lookups — LLM-based field extraction + deterministic master sheet matching. **Hours of manual Excel → seconds.**
 
