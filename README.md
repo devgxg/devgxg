@@ -2,7 +2,7 @@
   
 # Dev Garg
 
-### `AI Engineer` · `LLM Systems` · `Computer Vision` · `Manufacturing AI` `RAG Systems` 
+### `AI Engineer` · `LLM Systems` · `Computer Vision` · `Manufacturing AI` · `RAG Systems` 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Building+AI+that+works+in+the+real+world;+Defense+surveillance+to+factory+floors;LLMs+%E2%9C%95+Manufacturing+%3D+My+niche)](https://git.io/typing-svg)
 
