@@ -83,7 +83,7 @@ Alternative credit scoring (up to 850) for Zomato riders & freelancers — analy
   <a href="https://github.com/devgxg/BiteWise">
     <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://bitewiseee.netlify.app/">
     <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
