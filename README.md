@@ -62,7 +62,7 @@ Fine-tuned YOLOv8 for ship, aircraft & personnel detection in satellite imagery.
 <p align="center"><em>AI Credit Scoring for India's Gig Economy</em></p>
 
 <p align="center">
-  <a href="https://github.com/devgxg/GigScore">
+  <a href="https://gigloan.netlify.app/">
     <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
