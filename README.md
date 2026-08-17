@@ -80,7 +80,7 @@ Alternative credit scoring (up to 850) for Zomato riders & freelancers — analy
 <p align="center"><em>AI Food Monitoring Assistant</em></p>
 
 <p align="center">
-  <a href="https://github.com/devgxg/BiteWise">
+  <a href="https://gigloan.netlify.app/">
     <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://bitewiseee.netlify.app/">
