@@ -23,7 +23,7 @@
 
 ### 🧠 About Me
 
-🔭 **AI Engineer** @ Dee Piping — automating piping engineering with LLMs  
+🔭 **AI Engineer** Working in Manufacturing sector to automate the manual labor work
 🛡️ **Ex-Intern** @ WESEE, Indian Navy — built defense-grade CV systems  
 🎓 **B.Tech CSE** + Economics Minor 
 ⚡ **MLSA Beta** 
