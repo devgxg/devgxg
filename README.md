@@ -23,7 +23,7 @@
 
 ### 🧠 About Me
 
-🔭 **AI Engineer** Working in Manufacturing sector to automate the manual labor work
+🔭 **AI Engineer** Working in Manufacturing sector to automate the manual work
 🛡️ **Ex-Intern** @ WESEE, Indian Navy — built defense-grade CV systems  
 🎓 **B.Tech CSE** + Economics Minor 
 ⚡ **MLSA Beta** 
