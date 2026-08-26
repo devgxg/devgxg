@@ -53,7 +53,7 @@
 
 `YOLOv8` `BLIP` `CLIP` `Flask` `React`
 
-Fine-tuned YOLOv8 for ship, aircraft & personnel detection in satellite imagery. Integrated BLIP for NLP-based intelligence summaries. **Fully offline** for secure defense environments.
+Fine-tuned YOLOv8 model for ship, aircraft & personnel detection in satellite imagery. Integrated BLIP for NLP-based intelligence summaries. **Fully offline** for secure defense environments.
 
 </td>
 <td width="50%" valign="top">
